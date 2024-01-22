@@ -26,12 +26,12 @@
 		
 		"afterPeace": "Very well, War is Not a Great Choice for both of Us.",
 		"tradeRequest": "I and The People of Georgia has an Offer to make Freind.",
-		
+		"favoredReligion": "Christianity"
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniquename": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"uniquename": "Strength In Unity",
+		"cities": ["Tlibisi","Kutaisi","","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
