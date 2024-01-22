@@ -1,4 +1,4 @@
-# Unciv-mod-example
+# Unciv-Project-Georgia
 
 Adding Georgia To The Game, because no one Did.
 
