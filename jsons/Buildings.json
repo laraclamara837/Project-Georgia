@@ -6,7 +6,7 @@
 		"cityStrength": 30,
 		"cityHealth": 150,
 		"cost": 100,
-		"happiness": 3,
+		"Food": 3,
 		"culture": 4,
 		"Faith": 5,
 		"hurryCostModifier": 20,
