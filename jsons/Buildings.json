@@ -12,7 +12,7 @@
 		"cost": 100,
 		"happiness": 3,
 		"culture": 4,
-		"Faith": 4,
+		"Faith": 5,
 		"hurryCostModifier": 20,
 		"uniques": ["[+5]% of [food] [in all Cities]","Destroyed when the city is captured"],
 		"requiredBuildingInCity": "Walls",
