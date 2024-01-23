@@ -30,7 +30,7 @@
 
 		"outerColor": [162,220,236],
 		"innerColor": [247,207,123],
-		"uniquename": "Strength In Unity",
+		"uniqueName": "Patronq'moba",
 		"uniques": ["[+1 Culture, +2 Faith] from every [Pasture]","[+20]% [Culture] from every [Hills] Tiles","[+50]% Golden Age length","Earn [50]% of killed [Military] unit's [Strength] as [Faith]","Allied City-States provide [Culture] equal to [+50]% of what they produce for themselves"],
 		"cities": ["Tlibisi","Kutaisi","Poti","Batumi","Gori","Senaki","Rustavi","Mtskheta","Ozurgeti",
 			"Khashuri","Zugdidi","Ninotsminda","Lagodekhi","Zestafoni","Akhalthiske","Sighnaghi","Ambrolauri","Baghdati","Samtredia",
