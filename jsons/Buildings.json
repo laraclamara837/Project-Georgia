@@ -1,16 +1,15 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Svaneti Tower",
+		"replaces": "Castle",
+		"uniqueTo": "Georgia",
+		"cost": 100,
+		"happiness": 3,
+		"culture": 4,
+		"Faith": 4,
+		"uniques": ["40% of food"],
+		"requiredBuildingInCity": "Walls",
+		"requiredTech": "Chivalry"
 	},
 	{
 		"name": "Breeders",
