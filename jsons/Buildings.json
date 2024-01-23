@@ -7,18 +7,21 @@
 		"happiness": 3,
 		"culture": 4,
 		"Faith": 4,
+		"hurryCostModifier": 100,
 		"uniques": ["[+5]% of [food] [in all Cities]","Destroyed when the city is captured"],
 		"requiredBuildingInCity": "Walls",
 		"requiredTech": "Chivalry"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "Tsikhe",
+		"replaces": "Walls",
+		"uniqueTo": "Georgia",
+		"cost": 40,
+		"hurryCostModifier": 50,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"culture": 3,
+		"Faith": 4,
+		"uniques": ["[+5]% of [Culture] [in all Cities","Destroyed when the city is captured"],
+		"requiredTech": "Mosanry"
 	}
 ]
