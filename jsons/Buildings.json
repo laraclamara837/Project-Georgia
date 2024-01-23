@@ -7,7 +7,7 @@
 		"happiness": 3,
 		"culture": 4,
 		"Faith": 4,
-		"uniques": ["[+40]% of food","Destroyed when the city is captured"],
+		"uniques": ["[+5]% of [food] [in all Cities]","Destroyed when the city is captured"],
 		"requiredBuildingInCity": "Walls",
 		"requiredTech": "Chivalry"
 	},
