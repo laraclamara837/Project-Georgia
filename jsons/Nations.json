@@ -31,7 +31,7 @@
 		"outerColor": [162,220,236],
 		"innerColor": [247,207,123],
 		"uniquename": "Strength In Unity",
-		"uniques": ["[+50]% Golden Age length","Earn [50]% of killed [Military] unit's [Strength] as [Faith]","[+1 Culture, +2 Faith] from [Hills] tiles [in all cities]"],
+		"uniques": ["[+50]% Golden Age length","[+1 Culture, +2 Faith] from [Hills] tiles [in all cities]"],
 		"cities": ["Tlibisi","Kutaisi","Poti","Batumi","Gori","Senaki","Rustavi","Mtskheta","Ozurgeti",
 			"Khashuri","Zugdidi","Ninotsminda","Lagodekhi","Zestafoni","Akhalthiske","Sighnaghi","Ambrolauri","Baghdati","Samtredia",
 			"Bolnisi","Telavi","Kaspi","Gardabani","Chiatura","Kvaleri","Akhmeta","Marneuli","Abasha","Khoni",
