@@ -6,9 +6,9 @@
 		"cityStrength": 30,
 		"cityHealth": 150,
 		"cost": 100,
-		"Happiness": 3,
+		"happiness": 3,
 		"culture": 4,
-		"Faith": 5,
+		"faith": 5,
 		"hurryCostModifier": 20,
 		"uniques": ["[+5]% of [food] [in all Cities]","Destroyed when the city is captured"],
 		"requiredBuildingInCity": "Walls",
@@ -24,7 +24,7 @@
 		"hurryCostModifier": 20,
 		"happiness": 2,
 		"culture": 3,
-		"Faith": 4,
+		"faith": 4,
 		"uniques": ["[+5]% of [Culture] [in all Cities]","Destroyed when the city is captured"],
 		"requiredTech": "Masonry"
 	}
