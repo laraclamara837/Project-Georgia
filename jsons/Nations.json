@@ -26,7 +26,7 @@
 		
 		"afterPeace": "Very well, War is Not a Great Choice for both of Us.",
 		"tradeRequest": "I and The People of Georgia has an Offer to make Freind.",
-		"favoredReligion": "Christianity"
+		"favoredReligion": "Christianity",
 
 		"outerColor": [162,220,236],
 		"innerColor": [247,207,123],
@@ -36,6 +36,6 @@
 			"Khashuri","Zugdidi","Ninotsminda","Lagodekhi","Zestafoni","Akhalthiske","Sighnaghi","Ambrolauri","Baghdati","Samtredia",
 			"Bolnisi","Telavi","Kaspi","Gardabani","Chiatura","Kvaleri","Akhmeta","Marneuli","Abasha","Khoni",
 			"Sagarejo","Gurjaani","Akhalkalaki","Martvili","Oni","Tsnori"]
-		"spyNames": ["Nana", "Mariam", "Levan", "Natia", "Davit", "Lasha", "Anuka", "Tamari", "Zurab", "Teona"]
+		"spyNames": ["Nana", "Mariam", "Levan", "Natia", "Davit", "Lasha", "Anuka", "Tamari", "Zurab", "Teona"],
 	}
 ]
