@@ -12,6 +12,6 @@
 		"requiredResource": "Iron",
 		"uniques": ["When fighting on [Hills], Khevsur will Gain [+50]% More [Strength] Than Usual","Khevsur also Don't Suffer a Movement Penalty on [Hills] Tiles"],
 		"promotions": ["Mobility II","Drill III"],
-		"attackSound": "Metalhit"
+		"attackSound": "Metalhit",
 	}
 ]
