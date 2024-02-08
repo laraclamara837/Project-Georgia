@@ -26,6 +26,6 @@
 		"culture": 3,
 		"faith": 4,
 		"uniques": ["[+5]% of [Culture] [in all Cities]","Destroyed when the city is captured"],
-		"requiredTech": "Masonry",
+		"requiredTech": "Masonry"
 	}
 ]
