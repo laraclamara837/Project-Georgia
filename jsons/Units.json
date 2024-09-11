@@ -5,7 +5,7 @@
 		"uniqueTo": "Georgia",
 		"replaces": "Longswordsman",
 		"movement": 4,
-		"strength": 90,
+		"strength": 50,
 		"cost": 60,
 		"requiredTech": "Steel",
 		"obsoleteTech": "Gunpowder",
