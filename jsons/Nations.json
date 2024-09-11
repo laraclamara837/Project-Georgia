@@ -3,7 +3,7 @@
 		"name": "Georgia",
 		"leaderName": "Tamar",
 		"adjective": ["Georgian"],
-		"startBias": ["Hill, Mountain"],
+		"startBias": ["Hill","Mountain"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Your Gracious Highness, you presided over Medieval Georgia's golden age! You became the focus of the era, the central point of Georgia's development. You were the first woman to rule Georgia and you were able to build upon the successes of your predecessors. Your reign represented the peak of Georgia's might in the whole history of your nation! Georgia's territory was expanded greatly; besides the political and military achievements, it was marked by the development of Georgian culture, including architecture, literature, philosophy and sciences.",
