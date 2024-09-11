@@ -31,7 +31,7 @@
 		"outerColor": [71,124,171],
 		"innerColor": [215,172,104],
 		"uniqueName": "Kings, And Strength In Unity. Glory of the World, Kingdom and Faith",
-		"uniques": ["[+50]% Golden Age length","[+50]% Strength <for [All] units> <during a Golden Age>","Earn [50]% of killed [Military] unit's [Strength] as [Faith]","[+2 Faith, +2 Culture] from every [Mountain]","[+1 Faith, +1 Culture] from every [Mountain]","[+2 Production, +3 Gold, +2 Faith] from each Trade Route <after adopting [Organized Religion]>"],
+		"uniques": ["[+50]% Golden Age length","[+50]% Strength <for [All] units> <during a Golden Age>","Earn [50]% of killed [Military] unit's [Strength] as [Faith]","[+2 Faith, +2 Culture] from every [Mountain]","[+1 Faith, +1 Culture] from every [Hill]","[+2 Production, +3 Gold, +2 Faith] from each Trade Route <after adopting [Organized Religion]>"],
 		"cities": ["Tlibisi","Kutaisi","Poti","Batumi","Gori","Senaki","Rustavi","Mtskheta","Ozurgeti",
 			"Khashuri","Zugdidi","Ninotsminda","Lagodekhi","Zestafoni","Akhalthiske","Sighnaghi","Ambrolauri","Baghdati","Samtredia",
 			"Bolnisi","Telavi","Kaspi","Gardabani","Chiatura","Kvaleri","Akhmeta","Marneuli","Abasha","Khoni",
