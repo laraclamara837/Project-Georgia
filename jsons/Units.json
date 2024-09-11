@@ -10,7 +10,7 @@
 		"requiredTech": "Steel",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["When fighting on [Hills], Khevsur will Gain [+50]% More [Strength] Than Usual","Khevsur also Don't Suffer a Movement Penalty on [Hills] Tiles"],
+		"uniques": ["[+60]% Strength <when fighting in [Hill] tiles>","Double movement in [Hill]"],
 		"promotions": ["Mobility II","Drill III"],
 		"attackSound": "Metalhit",
 	}
