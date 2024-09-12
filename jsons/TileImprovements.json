@@ -8,6 +8,6 @@
 		"faith": 1,
 		"turnsToBuild":5,
 		"techRequired": "Construction",
-		"uniques": ["Can only be built on [Hill] tiles <with [1] to [6] neighboring [Mountain] tiles>","Can only be built on [Mountain] tiles <with [1] to [6] neighboring [Mountain] tiles>","[+1 Faith] for each adjacent [Mountain]","[+1 Faith] for each adjacent [Hill]","[+10]% Natural religion spread [in this city]","Adjacent enemy units ending their turn take [10] damage","Pillaging this improvement yields approximately [+2 Gold]","Gives a defensive bonus of [50]%","[+2 Gold, +1 Culture] <after discovering [Flight]>"]
+		"uniques": ["Can only be built on [Hill] tiles <with [1] to [6] neighboring [Mountain] tiles>","Can only be built on [Mountain] tiles <with [1] to [6] neighboring [Mountain] tiles>","[+1 Faith] for each adjacent [Mountain]","[+1 Faith] for each adjacent [Hill]","","Adjacent enemy units ending their turn take [10] damage","Pillaging this improvement yields approximately [+2 Gold]","Gives a defensive bonus of [50]%","[+2 Gold, +1 Culture] <after discovering [Flight]>"]
 }
 ]
