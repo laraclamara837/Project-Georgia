@@ -9,10 +9,10 @@
 		"startIntroPart1": "Your Gracious Highness, you presided over Medieval Georgia's golden age! You became the focus of the era, the central point of Georgia's development. You were the first woman to rule Georgia and you were able to build upon the successes of your predecessors. Your reign represented the peak of Georgia's might in the whole history of your nation! Georgia's territory was expanded greatly; besides the political and military achievements, it was marked by the development of Georgian culture, including architecture, literature, philosophy and sciences.",
 		"startIntroPart2": "Queen Tamar, your nation needs you to bring it glory and wealth again! Revive the Georgian Renaissance and conquer your enemies! Your people believe in you, but can you live up to their expectations? Will you turn Georgia into a dominant nation once again? Can you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "A imbecile like You shouldn't Rule a Kingdom, and I shall save your people!",
-		"attacked": "You Dare? Then You shall Face The Mights of the Mountains.",
-		"defeated": "I gave my best shot and you still won. Farewell.",
-		"introduction": "You approach me with fortitude. State your business Freind.",
+		"declaringWar": "The lord blesses us in this battle. You stand alone waiting for your demise.",
+		"attacked": "Georgian hearts will not tremble before your multitudes.",
+		"defeated": "May the lord have mercy on me and on my failures... What are you doing here? Get out!!",
+		"introduction": "I am King Tamar, of Georgia. Say what you will and be on your way.",
 		
 		"neutralHello": "Are You well My freind?",
 		"neutralLetsHearIt": ["Go on Dear.","What do you Intend Dear?","You may begin Freind."],
@@ -24,8 +24,8 @@
 		"hateNo": ["That will be not possible!","I'm and All of Georgia Decline your offer.","I beg your pardon Peasant?"],
 		"hateYes": ["That's is fine, For Now.","That is good enough for People of Georgia.","Very well... You may leave."],
 		
-		"afterPeace": "Very well, War is Not a Great Choice for both of Us.",
-		"tradeRequest": "I and The People of Georgia has an Offer to make Freind.",
+		"afterPeace": "I appreciate the walls you build for your people... And between us",
+		"tradeRequest": "Georgian merchants bring many strings of churchkhela. They make a filling dessert. What do you have to offer?",
 		"favoredReligion": "Christianity",
 
 		"outerColor": [71,124,171],
