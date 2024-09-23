@@ -1,5 +1,4 @@
-
-  {
+   {
     "name": "Tamar",
     "production": 7,
     "food": 6,
@@ -9,7 +8,7 @@
     "happiness": 8,
     "faith": 9,
     "military": 9,
-    "aggressive": 6,
+    "aggressive": 8,
     "declareWar": 6,
     "commerce": 5,
     "diplomacy": 9,
@@ -22,8 +21,8 @@
       "Commerce": 6,
       "Patronage": 7,
       "Piety": 9,
-      "Rationalism": 6,
-      "Freedom": 6,
+      "Rationalism": 7,
+      "Freedom": 7,
       "Autocracy": 7,
       "Order": 8
     },
@@ -32,3 +31,4 @@
         "text": "Survive so many coup against her, the first queen of georgia, the greatest ruler of georgia, presiding over the apex of the georgian golden Age, saint in the eastern orthodox church."
       }
     ]
+   }
