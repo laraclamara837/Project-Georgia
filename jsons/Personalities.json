@@ -1,35 +1,34 @@
-    ]
-  },
+
   {
     "name": "Tamar",
-    "production": 6,
-    "food": 5,
-    "gold": 6,
+    "production": 7,
+    "food": 6,
+    "gold": 7,
     "science": 5,
-    "culture": 5,
+    "culture": 9,
     "happiness": 8,
-    "faith": 4,
-    "military": 7,
-    "aggressive": 4,
-    "declareWar": 5,
-    "commerce": 4,
-    "diplomacy": 7,
+    "faith": 9,
+    "military": 9,
+    "aggressive": 6,
+    "declareWar": 6,
+    "commerce": 5,
+    "diplomacy": 9,
     "loyal": 4,
-    "expansion": 8,
+    "expansion": 9,
     "priorities": {
-      "Tradition": 5,
-      "Liberty": 9,
-      "Honor": 6,
+      "Tradition": 9,
+      "Liberty": 7,
+      "Honor": 7,
       "Commerce": 6,
       "Patronage": 7,
-      "Piety": 4,
+      "Piety": 9,
       "Rationalism": 6,
       "Freedom": 6,
-      "Autocracy": 5,
+      "Autocracy": 7,
       "Order": 8
     },
     "civilopediaText": [
       {
-        "text": "The creator of the Pax Romana and the Roman Empire, who ended a long civil war and brought peace to the entire Mediterranean, possibly the greatest emperor of Rome."
+        "text": "Survive so many coup against her, the first queen of georgia, the greatest ruler of georgia, presiding over the apex of the georgian golden Age, saint in the eastern orthodox church."
       }
     ]
