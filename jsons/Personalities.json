@@ -1,0 +1,35 @@
+    ]
+  },
+  {
+    "name": "Tamar",
+    "production": 6,
+    "food": 5,
+    "gold": 6,
+    "science": 5,
+    "culture": 5,
+    "happiness": 8,
+    "faith": 4,
+    "military": 7,
+    "aggressive": 4,
+    "declareWar": 5,
+    "commerce": 4,
+    "diplomacy": 7,
+    "loyal": 4,
+    "expansion": 8,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 9,
+      "Honor": 6,
+      "Commerce": 6,
+      "Patronage": 7,
+      "Piety": 4,
+      "Rationalism": 6,
+      "Freedom": 6,
+      "Autocracy": 5,
+      "Order": 8
+    },
+    "civilopediaText": [
+      {
+        "text": "The creator of the Pax Romana and the Roman Empire, who ended a long civil war and brought peace to the entire Mediterranean, possibly the greatest emperor of Rome."
+      }
+    ]
