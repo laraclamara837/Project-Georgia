@@ -8,6 +8,6 @@
 		"faith": 1,
 		"turnsToBuild":5,
 		"techRequired": "Construction",
-		"uniques": ["Must be next to [Mountain]","[+1 Faith] for each adjacent [Mountain]","[+1 Faith] for each adjacent [Hill]","Adjacent enemy units ending their turn take [10] damage","Pillaging this improvement yields approximately [+2 Gold]","[+3 Faith, +3 Culture, +2 Happiness] <during a Golden Age>","Gives a defensive bonus of [50]%","[+2 Gold, +1 Culture] <after discovering [Flight]>"]
+		"uniques": ["Must be next to [Mountain]","[+1 Faith] for each adjacent [Mountain]","[+1 Faith] for each adjacent [Hill]","Adjacent enemy units ending their turn take [10] damage","Pillaging this improvement yields approximately [+2 Gold]","Gives a defensive bonus of [50]%","[+3 Faith, +3 Culture, +2 Happiness] <during a Golden Age>","[+2 Gold, +1 Culture] <after discovering [Flight]>"]
 }
 ]
