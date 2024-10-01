@@ -25,7 +25,7 @@
 		"happiness": 2,
 		"culture": 2,
 		"faith": 4,
-		"uniques": ["[+4 Faith] <during a Golden Age>","Destroyed when the city is captured"],
+		"uniques": ["[+4 Faith, +2 Culture] <during a Golden Age>","Destroyed when the city is captured"],
 		"requiredTech": "Printing Press"
 	}
 ]
