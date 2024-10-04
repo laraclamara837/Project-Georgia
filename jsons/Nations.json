@@ -28,10 +28,10 @@
 		"tradeRequest": "Georgian merchants bring many strings of churchkhela. They make a filling dessert. What do you have to offer?",
 		"favoredReligion": "Christianity",
 
-		"outerColor": [71, 124, 171],
-		"innerColor": [215, 172, 104],
+		"outerColor": [102, 162, 240],
+		"innerColor": [240, 180, 102],
 		"uniqueName": "Kings, And Strength In Unity. Glory of the World, Kingdom and Faith",
-		"uniques": ["[+50]% Production when constructing [Defensive] buildings [in all cities]","[+30]% [Faith] [in all cities] <during a Golden Age>","[+50]% Golden Age length","[+100]% [Faith] [in all cities] <when at war>","[+100]% Strength <for [All] units> <during a Golden Age>","Earn [50]% of killed [Military] unit's [Strength] as [Faith]","May buy [Military] units with [Faith] for [3] times their normal Production cost <when at war>","May buy [Culture] and [Defensive] buildings with [Faith] for [2] times their normal Production cost <when not at war>","[-50]% maintenance cost for buildings [in all cities] <during a Golden Age>","Land units may cross [Mountain] tiles after the first [Great General] is earned","[+2 Faith, +2 Culture] from every [Mountain]","[+1 Faith, +1 Culture] from every [Hill]","[+2 Production, +3 Gold, +2 Faith] from each Trade Route <after adopting [Free Religion]>"],
+		"uniques": ["[+50]% Production when constructing [Defensive] buildings [in all cities]","[+30]% [Faith] [in all cities] <during a Golden Age>","[+50]% Golden Age length","[+100]% [Faith] [in all cities] <when at war>","[+100]% Strength <for [All] units> <during a Golden Age>","Earn [50]% of killed [Military] unit's [Strength] as [Faith]","May buy [Military] units with [Faith] for [3] times their normal Production cost <when at war>","[-50]% maintenance cost for buildings [in all cities] <during a Golden Age>","Land units may cross [Mountain] tiles after the first [Great General] is earned","[+2 Faith, +2 Culture] from every [Mountain]","[+1 Faith, +1 Culture] from every [Hill]","[+2 Production, +3 Gold, +2 Faith] from each Trade Route <after adopting [Free Religion]>"],
 		"cities": ["Tlibisi","Kutaisi","Poti","Batumi","Gori","Senaki","Rustavi","Mtskheta","Ozurgeti",
 			"Khashuri","Zugdidi","Ninotsminda","Lagodekhi","Zestafoni","Akhalthiske","Sighnaghi","Ambrolauri","Baghdati","Samtredia",
 			"Bolnisi","Telavi","Kaspi","Gardabani","Chiatura","Kvaleri","Akhmeta","Marneuli","Abasha","Khoni",
