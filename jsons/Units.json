@@ -26,7 +26,7 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Double movement in [Hill]","Can build [Fortress] improvements on tiles","Can build [Citadel] improvements on tiles ","[Great General] is earned [+40]% faster","[+10]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Double movement in [Hill]","Can be purchased for [3] [Faith] [in all cities]","Can build [Fortress] improvements on tiles <in [Land] tiles>","Can instantly construct a [Citadel] improvement <by consuming this unit> <during a Golden Age>","[Great General] is earned [+40]% faster","[+25]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Great Generals I","Drill III"]
 		"attackSound": "Metalhit"
 	}
