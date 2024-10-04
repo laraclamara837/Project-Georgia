@@ -20,7 +20,7 @@
 		"uniqueTo": "Georgia",
 		"cityStrength": 35,
 		"cityHealth": 90,
-		"cost": 50,
+		"cost": 100,
 		"hurryCostModifier": 20,
 		"happiness": 2,
 		"culture": 2,
