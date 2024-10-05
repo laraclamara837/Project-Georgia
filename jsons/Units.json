@@ -15,7 +15,7 @@
 		"attackSound": "Metalhit",
 	},
 	{
-		"name": "Knight",
+		"name": "Tadzreuli",
 		"unitType": "Mounted",
 		"uniqueTo": "Georgia",
 		"replaces": "Knight",
@@ -26,7 +26,7 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Double movement in [Hill]","Can be purchased for [3] [Faith] [in all cities]","Can build [Fort] improvements on tiles <in [Land] tiles>","Can instantly construct a [Citadel] improvement <by consuming this unit> <during a Golden Age>","[Great General] is earned [+40]% faster","[+25]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Double movement in [Hill]","Can be purchased for [3] [Faith] [in all cities]","Can build [Fort] improvements on tiles <in [Land] tiles>","Can instantly construct a [Citadel] improvement <by consuming this unit> <during a Golden Age>","[Great Prophet] is earned [+50]% faster","[+25]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Great Generals I","Drill III"]
 		"attackSound": "Metalhit"
 	}
