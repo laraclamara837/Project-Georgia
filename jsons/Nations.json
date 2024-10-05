@@ -6,18 +6,18 @@
 		"startBias": ["Hill","Mountain"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Your Gracious Highness, you presided over Medieval Georgia's golden age! You became the focus of the era, the central point of Georgia's development. You were the first woman to rule Georgia and you were able to build upon the successes of your predecessors. Your reign represented the peak of Georgia's might in the whole history of your nation! Georgia's territory was expanded greatly; besides the political and military achievements, it was marked by the development of Georgian culture, including architecture, literature, philosophy and sciences.",
-		"startIntroPart2": "Queen Tamar, your nation needs you to bring it glory and wealth again! Revive the Georgian Renaissance and conquer your enemies! Your people believe in you, but can you live up to their expectations? Will you turn Georgia into a dominant nation once again? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "All Hail King Tamar of Georgia! You rule Georgia, a nation of poets, priests and warriors perched among the ferocious peaks of the Caucasus mountains. Though ruling in unelightened times and facing a rebellious nobility chafing under their own misogyny, you inspired devotion and loyalty among the people of Georgia and crushed those who refused to acknowledge your rule. With the nation bent to your pious will, you went on to lead the small mountain kingdom onto epic conquests, uniting the Caucasus mountains and destroying Muslim neighbours vastly larger than your shining beacon of Christianity. Smashing even the mighty Seljuk empire, Georgia became a regional hegemon - even as far as Jerusalem, Georgian priests went unmolested by their heathen countrymen, while Georgian knights rode unmolested, banners unfurled, striking georgian colors through the ancient city, a rare honour for even the mightiest of empires.",
+		"startIntroPart2": "King Tamar, your nation needs you to bring it glory and wealth again! Revive the Georgian Renaissance and conquer your enemies! Your people believe in you, but can you live up to their expectations? Will you turn Georgia into a dominant nation once again? Can you build a Civilization to honour the mighty dragon slayer St. George himself? Can you defend against the ancient dragons that stalk your Caucasian home, waiting to subdue your faith beneath a tide of heathenry? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "The lord blesses us in this battle. You stand alone waiting for your demise.",
-		"attacked": "Georgian hearts will not trembled before your multitudes.",
-		"defeated": "May the lord have mercy on me and on my failures... What are you doing here? Get out!!",
-		"introduction": "I am King Tamar, of Georgia. Say what you will and be on your way.",
+		"attacked": "Georgians faith and hearts, will not be trembled before your multitudes.",
+		"defeated": "The Lord shall succeed where even I failed, and strike you down with a vengeance that would make my most hardened warriors blush. Count your remaining days, heathen",
+		"introduction": "You stand before king tamar of georgia, the protector of georgia, king of all kings and a loyal servant of the lord.",
 		
-		"neutralHello": "Are You well My freind?",
-		"neutralLetsHearIt": ["Go on Dear.","What do you Intend Dear?","You may begin Freind."],
+		"neutralHello": "State your purpose.",
+		"neutralLetsHearIt": ["Let's Hear it.","What are you Intended?","You may begin."],
 		"neutralNo": ["My people and I Must decline.","I'm not Interested.","I Shall Decline."],
-		"neutralYes": ["People of Georgia Welcomed you.","Of course my Freind, Yes.","I Agree on The Term."],
+		"neutralYes": ["People of Georgia Welcomed you.","Of course my freind, Yes.","I Agree on The Term."],
 
 		"hateHello": "What Peasant?",
 		"hateLetsHearIt": ["Speak You Imbecile!","What do you Implied Peasant?","Go on, I don't have time much for you."],
