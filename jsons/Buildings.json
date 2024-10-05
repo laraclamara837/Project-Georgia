@@ -7,10 +7,11 @@
 		"cityHealth": 70,
 		"cost": 50,
 		"happiness": 1,
+		"faith": 1,
 		"culture": 2,
 		"food": 2,
 		"hurryCostModifier": 20,
-		"uniques": ["[15]% Food is carried over after population increases [in this city]","Destroyed when the city is captured","[+2 Gold, +1 Culture] <after discovering [Flight]>"],
+		"uniques": ["[+2 Food, +2 Culture] <during a Golden Age>","[15]% Food is carried over after population increases [in this city]","Destroyed when the city is captured","[+2 Gold, +1 Culture] <after discovering [Flight]>"],
 		"requiredBuildingInCity": "Walls",
 		"requiredTech": "Civil Service",
 	},
@@ -21,11 +22,11 @@
 		"cityStrength": 35,
 		"cityHealth": 90,
 		"cost": 100,
-		"hurryCostModifier": 20,
+		"hurryCostModifier": 50,
 		"happiness": 2,
 		"culture": 2,
 		"faith": 4,
-		"uniques": ["[+4 Faith, +2 Culture] <during a Golden Age>","Destroyed when the city is captured","[+2 Gold, +1 Culture] <after discovering [Flight]>"],
+		"uniques": ["[+4 Faith, +2 Culture] <during a Golden Age>","[-50]% enemy spy effectiveness [in this city]","Destroyed when the city is captured","[+2 Gold, +1 Culture] <after discovering [Flight]>"],
 		"requiredTech": "Printing Press"
 	}
 ]
