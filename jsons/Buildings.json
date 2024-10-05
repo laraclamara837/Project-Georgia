@@ -10,7 +10,7 @@
 		"culture": 2,
 		"food": 2,
 		"hurryCostModifier": 20,
-		"uniques": ["[15]% Food is carried over after population increases [in this city]","Destroyed when the city is captured","[+2 Gold, +1 Culture] <after discovering [Flight]>"],
+		"uniques": ["[15]% Food is carried over after population increases [in this city]","[+1 Faith, +1 Food] from every [Fort] [in this city]","[+2 Faith, +2 Food, +1 Culture] from every [Fort] [in this city] <during a Golden Age>","Destroyed when the city is captured","[+2 Gold, +1 Culture] <after discovering [Flight]>"],
 		"requiredBuildingInCity": "Walls",
 		"requiredTech": "Civil Service",
 	},
@@ -25,7 +25,7 @@
 		"happiness": 2,
 		"culture": 2,
 		"faith": 4,
-		"uniques": ["[+4 Faith, +2 Culture] <during a Golden Age>","Destroyed when the city is captured","[+2 Gold, +1 Culture] <after discovering [Flight]>"],
+		"uniques": ["[+4 Faith, +2 Culture] <during a Golden Age>","[+2 Faith, +1 Culture] from every [Fort] <in [Hill] tiles>","[+3 Faith, +2 Culture, +1 Food, +1 Happiness] from every [Fort] <in [Hill] tiles> [in this city] <during a Golden Age>","[+6 Faith, +3 Culture, +2 Food, +2 Happiness] from every [Citadel] <in [Hill] tiles> [in this city]","[+6 Faith, +4 Culture, +3 Food, +3 Happiness] from every [Citadel] <in [Hill] tiles> [in this city] <during a Golden Age>","Destroyed when the city is captured","[+2 Gold, +1 Culture] <after discovering [Flight]>"],
 		"requiredTech": "Printing Press"
 	}
 ]
