@@ -26,7 +26,7 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Double movement in [Hill]","Can be purchased for [3] [Faith] [in all cities]","Can build [Fort] improvements on tiles <in [Land] tiles>","Can instantly construct a [Citadel] improvement <during a Golden Age> <by consuming this unit>","[Great Prophet] is earned [+50]% faster","[+25]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Double movement in [Hill]","Can be purchased for [10] [Faith] [in all cities]","Can build [Fort] improvements on tiles <in [Land] tiles>","Can instantly construct a [Citadel] improvement <during a Golden Age> <by consuming this unit>","[Great Prophet] is earned [+50]% faster","[+25]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Great Generals I","Drill III"]
 		"attackSound": "Metalhit"
 	}
