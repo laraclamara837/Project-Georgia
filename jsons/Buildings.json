@@ -26,7 +26,7 @@
 		"happiness": 2,
 		"culture": 2,
 		"faith": 4,
-		"uniques": [" <during a Golden Age>","[-50]% enemy spy effectiveness [in this city]","Destroyed when the city is captured","[+2 Gold, +1 Culture] <after discovering [Flight]>"],
+		"uniques": ["[+4 Faith, +2 Culture] <during a Golden Age>","[-50]% enemy spy effectiveness [in this city]","Destroyed when the city is captured","[+2 Gold, +1 Culture] <after discovering [Flight]>"],
 		"requiredTech": "Printing Press"
 	}
 ]
